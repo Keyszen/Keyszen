@@ -14,7 +14,11 @@
 <!-- Nama Kejengkang -->
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F7F7F7&width=435&lines=Hello+World!;I'm+Keyszen+Jean+Lasmana;Powered+by+Caffeine+and+Bugs)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F7F7F7&width=435&lines=Hello+World!;I'm+Keyszen+Jean+Lasmana;Powered+by+Caffeine+and+Bugs" alt="Typing SVG" />
+  </a>
+</p>
 
 <!-- Conect With -->
 ###
@@ -62,7 +66,6 @@
   <img src="https://streak-stats.demolab.com?user=Keyszen&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/Keyszen/Keyszen/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
 ###
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/Keyszen/Keyszen/snake-output/snake.svg" alt="Snake animation" />
