@@ -7,8 +7,8 @@
 
 <br clear="both">
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnplbGFqMmZlYzdsNWNscjVzMnc4NHM2M3NwdmZ6NmJ0cTEwYXd4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"  />
+<div align="center">
+  <img src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif" height="150" alt="Coding GIF" />
 </div>
 
 <!-- Nama Kejengkang -->
