@@ -14,7 +14,7 @@
 <!-- Nama Kejengkang -->
 ###
 
-<p align="center">
+<p align="right">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F7F7F7&width=435&lines=Hello+World!;I'm+Keyszen+Jean+Lasmana;Powered+by+Caffeine+and+Bugs" alt="Typing SVG" />
   </a>
