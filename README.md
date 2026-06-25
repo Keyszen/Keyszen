@@ -2,6 +2,15 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=false&fontSize=50&fontColor=11111111&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
 </div>
 
+<!-- Nama Kejengkang -->
+###
+
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F7F7F7&width=550&lines=Hello+World!;I'm+Keyszen+Jean+Lasmana;Powered+by+Caffeine+and+Bugs" alt="Typing SVG" />
+  </a>
+</p>
+
 <!-- Gift -->
 ###
 
@@ -10,15 +19,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif" height="150" alt="Coding GIF" />
 </div>
-
-<!-- Nama Kejengkang -->
-###
-
-<p align="right">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F7F7F7&width=435&lines=Hello+World!;I'm+Keyszen+Jean+Lasmana;Powered+by+Caffeine+and+Bugs" alt="Typing SVG" />
-  </a>
-</p>
 
 <!-- Conect With -->
 ###
