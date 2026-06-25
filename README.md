@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hello World, I'm Keyszen Jean Lasmana! 👋 (he/him)<br><br>An enthusiastic **Information Systems Student** who loves turning ideas into clean, functional, and aesthetically pleasing code. Currently focused on building a solid foundation in **Web & Mobile Development**, documenting my coding journey, and crafting real-world projects one commit at a time.<br><br>---<br><br>### 🚀 About Me<br>* 🎓 Studying **Information Systems** at Universitas Banda Mulia.<br>* 💡 Deeply interested in **Web Engineering & Full-Stack Development**.<br>* 🌿 Active member of the **Google Developer Groups (GDG) Bogor** community.<br>* 🛠️ Currently learning how to slice designs into high-quality code and working on web projects like *De Lavender Villas*.<br>* 🎯 Goal: Building modern web applications with optimized performance and clean UI/UX layout.<br><br>---<br><br>### 🛠️ Tech Stack & Tools<br>* **Languages & Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript<br>* **Design & UI/UX:** Figma (Clean Layouts, Dark Mode, Glassmorphism)<br>* **Backend & Environment:** Node.js, Ollama (Local AI tooling)<br>* **Tools & OS:** Git, GitHub, PowerShell<br><br>---<br><br>### 📊 Highlighted Projects<br>* 📂 **[todolist-dashboard](https://github.com/Keyszen/todolist-dashboard)** - A structured dashboard application built to manage daily tasks using TypeScript.<br>* 📂 **[cuyunivpb2](https://github.com/Keyszen/cuyunivpb2)** - Web responsive practice layout exploring interactive features with HTML, CSS, and JavaScript.<br><br>---<br><br>### 📬 Let's Connect!<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/keyszen-jean-lasmana-78b469388)<br>[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kyszenn_)<br>[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:keyszenjl@gmail.com)
 
-<!--
-**Keyszen/Keyszen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kyszenn_?igsh=MWkzdTg5Y2xnc2d2YQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/keyszen) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Keyszen&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Keyszen&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Keyszen&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Keyszen&icon=7&color=5)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
